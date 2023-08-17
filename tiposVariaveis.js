@@ -1,4 +1,4 @@
-let maiorDeIdade,nome,bigInt,meuSimbolo;
+var maiorDeIdade,nome,bigInt,meuSimbolo;
 console.log(`${maiorDeIdade} ${nome} ${bigInt} ${meuSimbolo}`);
 
 maiorDeIdade = null;
